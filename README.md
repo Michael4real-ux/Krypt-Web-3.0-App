@@ -1,9 +1,16 @@
+## Krypt - Web 3.0 Blockchain Application
+
+
+
+## DESCRIPTION
+This is a dencentralized smart contract app where users can send and recieve cryptocoin on real time.This unique smart contract app is a version of Web 3.0. Users are authenticated using metamask and many more amazing features which is the future of web.
+Technologies Used - React.js ,solidity, hardhat,Metamask ,Tailwind css.
+
 ## Install Tailwind CSS with Create React App
 ## Setting up Tailwind CSS in a Create React App project.
 
 
-# Create your project
-Start by creating a new React project with Create React App v5.0+ if you don't have one already set up.
+
 
 # Terminal
 
@@ -56,3 +63,4 @@ index.css
 Terminal
 
 npm run start
+yarn start
