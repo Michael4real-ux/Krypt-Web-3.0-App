@@ -1,5 +1,6 @@
 ## Krypt - Web 3.0 Blockchain Application
 
+<img width="320" alt="buyandsell" src="https://user-images.githubusercontent.com/60100544/157340456-83c8f8dd-1091-42dd-bb64-a63729484c89.png">
 
 
 ## DESCRIPTION
